@@ -3,11 +3,14 @@ Minimal Blog Profile flavoured with hints of Twitter, Tumblr, Facebook.
 
 ## Post types
 
-### Flavour: Tweet
+### Flavour: Tweet (Twitter)
 
-### Flavour: Status update
+### Flavour: Status update (Facebook)
 
-### Flavour: Image(s)
+### Flavour: Image(s) (Tumblr)
 
-### Flavour: Link
+### Flavour: Link (Tumblr)
 
+### Flavour: Article (Medium)
+
+### Flavour: Video (YouTube,Vimeo)
