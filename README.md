@@ -1,4 +1,5 @@
-# pwbdecentralized
+# PWB Decentralized
+
 Minimal Blog Profile flavoured with hints of Twitter, Tumblr, Facebook.
 
 ## Post types
